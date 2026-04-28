@@ -16,7 +16,7 @@ This theme has multiple demo sites, to provide examples of how to set up deploym
 
 - [Netlify](https://zola-bearblog.netlify.app/)
 - [Grebedoc](https://alanpearce.grebedoc.dev/zola-bearblog/)
-- [Codeberg Pages](https://alanpearce.codeberg.page/zola-bearblog/)
+- [Codeberg Pages](https://alinnow.codeberg.page/zola-bearblog/)
 - [Gitlab Pages](https://alanpearce.gitlab.io/zola-bearblog)
 
 ### Not recommended
