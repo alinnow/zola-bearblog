@@ -21,7 +21,7 @@ This theme has multiple demo sites, to provide examples of how to set up deploym
 
 ### Not recommended
 
-These providers' build environments aren't yet compatible with Zola 0.23.2.
+These providers' build environments aren't yet compatible with Zola 0.23.4.
 - [Cloudflare Pages](https://zola-bearblog.pages.dev/)
 
 ## Screenshot
